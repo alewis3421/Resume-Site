@@ -43,4 +43,11 @@ h2 {
 }
 #footer {
     height: 150px;
+    align-items: center;
+}
+#indexP {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 50px;
+    padding-right: 50px;
 }
