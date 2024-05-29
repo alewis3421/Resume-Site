@@ -44,6 +44,10 @@ h2 {
 #footer {
     height: 150px;
     align-items: center;
+    padding-top: 150px;
+    bottom: 0;
+    width: 100%;
+    background: white;
 }
 #indexP {
     font-size: 30px;
